@@ -1,0 +1,59 @@
+/*
+.card {
+    max-width: 18rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+*/
+
+.card img {
+    margin-bottom: 0.5rem;
+    max-width: 18rem;
+}
+
+.card-title {
+    margin-top: 0.5rem;
+}
+
+.product-action-1 {
+    margin-bottom: 0.5rem;
+}
+
+.product-detail {
+    max-width: 25rem; 
+    margin: auto;
+}
+
+.add-product-btn {
+    margin-bottom: 1rem;
+}
+
+/*
+.product-form {
+    width: 20rem;
+    max-width: 90%;
+    margin: auto;
+    display: block;
+}
+
+.product-item {
+    width: 20rem;
+    max-width: 95%;
+    margin: 1rem;
+}
+
+.product__title {
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.product__price {
+    text-align: center;
+    color: #4d4d4d;
+    margin-bottom: 0.5rem;
+}
+
+.product__description {
+    text-align: center;
+}
+*/

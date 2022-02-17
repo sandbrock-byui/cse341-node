@@ -1,0 +1,7 @@
+GitHub - https://github.com/sandbrock-byui/cse341-node
+Heroku - https://br-cse341-node.herokuapp.com/
+
+Required .env entries:
+----------------------
+MONGODB_URL
+SENDGRID_KEY
